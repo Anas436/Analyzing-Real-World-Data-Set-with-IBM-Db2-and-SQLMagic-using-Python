@@ -2,7 +2,7 @@
 
 
 
-Alt-H1 Chicago Public Schools - Progress Report Cards (2011-2012)
+Chicago Public Schools - Progress Report Cards (2011-2012)
 
 The city of Chicago released a dataset showing all school level performance data used to create School Report Cards for the 2011-2012 school year. The dataset is available from the Chicago Data Portal: https://data.cityofchicago.org/Education/Chicago-Public-Schools-Progress-Report-Cards-2011-/9xs2-f89t
 
@@ -10,6 +10,7 @@ This dataset includes a large number of metrics. Start by familiarizing yourself
 
 
 NOTE:
+
 Do not download the dataset directly from City of Chicago portal. Instead download a static copy which is a more database friendly version from this link.
 
 Now review some of its contents.
